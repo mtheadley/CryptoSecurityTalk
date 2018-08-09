@@ -21,6 +21,9 @@ There isn't any code in this preso.
 ## ...rather things I am personally locking down
 ---
 # Because of HACKERS....
+
+<img src="https://media.giphy.com/media/XW3Q6lR8d7Nss/giphy.gif" style="border: 0px; width:400px"/>
+
 ---
 ### and the potential "ability" of our government to stop _ANYHTING_
 
