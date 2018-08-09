@@ -20,6 +20,15 @@ There isn't any code in this preso.
 <img src="./assets/tinfoil.jpeg" style="border: 0px; width:350px"/>
 
 ---
+
+## What are we trying to protect
+
+---
+
+## Who from?
+
+---
+
 ## ...HACKERS
 
 <img src="https://media.giphy.com/media/XW3Q6lR8d7Nss/giphy.gif" style="border: 0px; width:400px"/>
