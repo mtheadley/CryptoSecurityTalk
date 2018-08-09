@@ -23,17 +23,17 @@ There isn't any code in this preso.
 ---
 ## So... 
 
-Things I think about for security
+Things I think about for digital security
 
 ---
-## Because of HACKERS....
+## Because of HACKERS
 
 <img src="https://media.giphy.com/media/XW3Q6lR8d7Nss/giphy.gif" style="border: 0px; width:400px"/>
 
 ---
-## Here are some of the things that have done, doing, or thinking about...
+#### Here are some of the things that I have done, am doing, or thinking about...
 
-#### This is not the whole list, nor fits everyone.
+This is not the whole list, nor does it fit everyone.
 ---
 # Immediate items 
 ---
