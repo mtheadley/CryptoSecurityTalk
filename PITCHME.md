@@ -23,7 +23,7 @@ There isn't any code in this preso.
 ---
 ## So... 
 
-Things I am think about for security
+Things I think about for security
 
 ---
 ## Because of HACKERS....
@@ -31,14 +31,11 @@ Things I am think about for security
 <img src="https://media.giphy.com/media/XW3Q6lR8d7Nss/giphy.gif" style="border: 0px; width:400px"/>
 
 ---
-### and the potential "ability" of our government to stop _ANYTHING_
-
----
-## Here are some of the things that I did...
+## Here are some of the things that have done, doing, or thinking about...
 
 #### This is not the whole list, nor fits everyone.
 ---
-# Immediately 
+# Immediate items 
 ---
 
 ## "Freeze" credit reports...
