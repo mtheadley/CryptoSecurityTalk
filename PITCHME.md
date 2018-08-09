@@ -1,7 +1,7 @@
 ---
 ## Can I slow this clown down?
 
-<img src="./assets/fawkes.jpg" style="border: 0px; width:100%" />
+<img src="./assets/fawkes.jpg" style="border: 0px; width:75%" />
 
 ### Mark Headley
 ---
