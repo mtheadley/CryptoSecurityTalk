@@ -53,9 +53,9 @@ I use LastPass :: use this link and we BOTH get a month of Premium :: https://la
 ---
 ## Two factor Auth
 
-Do it -- where ever you can do it, take advantage.
-Try not to use a text message as a 2nd factor.
-Print off QR codes.
+- Do it -- where ever you can do it, take advantage.
+- Try not to use a text message as a 2nd factor.
+- Print off QR codes.
 
 ---
 ## Sign up to this site!
@@ -65,7 +65,7 @@ Troy Hunt :: https://haveibeenpwned.com/
 Twitter :: @troyhunt
 
 ---
-# A bit later
+# After the immediate steps
 ---
 
 ## Vera Crypt (was TrueCrypt)
@@ -78,7 +78,7 @@ https://www.veracrypt.fr/en/Downloads.html
 https://www.torproject.org/projects/torbrowser.html.en
 
 ---
-# Future
+# What's next...
 
 ---
 ## PiHole
@@ -93,5 +93,5 @@ https://www.yubico.com/
 ---
 # Discuss
 
-<img src="http://gph.is/2dCZ04e" style="border: 0px; width:350px" />
+<img src="https://media.giphy.com/media/l2SpQRuCQzY1RXHqM/giphy.gif" style="border: 0px; width:350px" />
 
