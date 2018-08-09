@@ -24,12 +24,10 @@ There isn't any code in this preso.
 ---
 ### and the potential "ability" of our government to stop _ANYHTING_
 
-<img src="./assets/tinfoil.jpg" style="border: 0px; width:350px"/>
+<img src="./assets/tinfoil.jpeg" style="border: 0px; width:350px"/>
 
 ---
-# Started becoming security conscience 
----
-# Here are some of the things that I did...
+# Here are some of the things that I doing...
 ---
 # Immediately 
 ---
