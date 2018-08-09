@@ -23,7 +23,7 @@ this is not really a preso...
 ---
 ## ...rather 
 
-Things I am personally locking down
+Things I am think about for security
 
 ---
 ## Because of HACKERS....
@@ -37,6 +37,8 @@ Things I am personally locking down
 
 ---
 ## Here are some of the things that I did...
+
+#### This is not the whole list, nor fits everyone.
 ---
 # Immediately 
 ---
@@ -88,17 +90,27 @@ https://www.torproject.org/projects/torbrowser.html.en
 # What's next...
 
 ---
+## Separating IOT devices from home wifi
+
+---
+## Personal VPN
+
+#### Think Coffee Shops, public wi-fi etc.
+
+https://www.tunnelbear.com/
+
+---
 ## PiHole
 
 https://pi-hole.net/
 
 ---
-## Yubico Key
+## 2FA : Yubico Key
 
 https://www.yubico.com/
 
 ---
-## Quad 9
+## DNS : Quad 9
 
 https://www.quad9.net/
 
