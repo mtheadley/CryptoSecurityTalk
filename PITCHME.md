@@ -1,7 +1,7 @@
 ---
 <img src="./assets/fawkes.jpg" style="border: 0px; width:100%" />
 ---
-## Does this guy exists?
+## Can I slow this clown down?
 
 ### Mark Headley
 
@@ -16,13 +16,13 @@ There isn't any code in this preso.
 <img src="./assets/smart_ass.jpg" style="border: 0px; width:350px" />
 
 ---
-# Not a preso...
+## Not really a preso...
 ---
-# Rather things I am locking down -- re-evaluating
+## ...rather things I am personally locking down
 ---
 # Because of HACKERS....
 ---
-### and the potential "ability" of our government
+### and the potential "ability" of our government to stop _ANYHTING_
 
 <img src="./assets/tinfoil.jpg" style="border: 0px; width:350px"/>
 
