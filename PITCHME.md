@@ -18,10 +18,10 @@ There isn't any code in this preso.
 ---
 ## ...final warning 
 
-this is not really a preso...
+<img src="./assets/tinfoil.jpeg" style="border: 0px; width:350px"/>
 
 ---
-## ...rather 
+## So... 
 
 Things I am think about for security
 
@@ -31,9 +31,7 @@ Things I am think about for security
 <img src="https://media.giphy.com/media/XW3Q6lR8d7Nss/giphy.gif" style="border: 0px; width:400px"/>
 
 ---
-### and the potential "ability" of our government to stop _ANYHTING_
-
-<img src="./assets/tinfoil.jpeg" style="border: 0px; width:350px"/>
+### and the potential "ability" of our government to stop _ANYTHING_
 
 ---
 ## Here are some of the things that I did...
