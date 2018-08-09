@@ -21,7 +21,7 @@ There isn't any code in this preso.
 
 ---
 
-## What are we trying to protect
+## What are we trying to protect?
 
 ---
 
