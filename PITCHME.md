@@ -18,10 +18,13 @@ There isn't any code in this preso.
 ---
 ## ...final warning 
 
-Not really a preso...
+this is not really a preso...
 
 ---
-## ...rather things I am personally locking down
+## ...rather 
+
+Things I am personally locking down
+
 ---
 ## Because of HACKERS....
 
@@ -50,6 +53,7 @@ Stopped trying to keep track of all of the passwords that I used, needed to trac
 - LastPass
 - OnePass
 - KeyPassX  (open source)
+- there are more, however; be careful
 
 I use LastPass :: use this link and we BOTH get a month of Premium :: https://lastpass.com/f?15489262 
 
@@ -57,7 +61,7 @@ I use LastPass :: use this link and we BOTH get a month of Premium :: https://la
 ## Two factor Auth
 
 - Do it -- where ever you can do it, take advantage.
-- Try not to use a text message as a 2nd factor.
+- Try not to use an SMS message as a 2nd factor.
 - Print off QR codes.
 
 ---
@@ -94,6 +98,12 @@ https://pi-hole.net/
 https://www.yubico.com/
 
 ---
+## Quad 9
+
+https://www.quad9.net/
+
+---
+
 # Discuss
 
 <img src="https://media.giphy.com/media/l2SpQRuCQzY1RXHqM/giphy.gif" style="border: 0px; width:350px" />
