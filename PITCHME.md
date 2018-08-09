@@ -16,7 +16,10 @@ There isn't any code in this preso.
 <img src="./assets/smart_ass.jpg" style="border: 0px; width:350px" />
 
 ---
-## Not really a preso...
+## ...final warning 
+
+Not really a preso...
+
 ---
 ## ...rather things I am personally locking down
 ---
