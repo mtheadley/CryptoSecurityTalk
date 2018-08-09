@@ -1,10 +1,9 @@
 ---
-<img src="./assets/fawkes.jpg" style="border: 0px; width:100%" />
----
 ## Can I slow this clown down?
 
-### Mark Headley
+<img src="./assets/fawkes.jpg" style="border: 0px; width:100%" />
 
+### Mark Headley
 ---
 # Warning...
 
