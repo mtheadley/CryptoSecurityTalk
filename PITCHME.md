@@ -21,12 +21,7 @@ There isn't any code in this preso.
 <img src="./assets/tinfoil.jpeg" style="border: 0px; width:350px"/>
 
 ---
-## So... 
-
-Things I think about for digital security
-
----
-## Because of HACKERS
+## ...HACKERS
 
 <img src="https://media.giphy.com/media/XW3Q6lR8d7Nss/giphy.gif" style="border: 0px; width:400px"/>
 
